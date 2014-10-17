@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nbc:home|Door43 (nbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nbc|d43-nbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nbc/archive/master.zip|d43-nbc.zip]]
+
+**Recent Changes**
+{{changes>ns = nbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nbc|Ethnologue data]]
+
